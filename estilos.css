@@ -1,0 +1,16 @@
+section {
+    margin: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    color: darkred;
+}
+
+.licor {
+    background-color: #f2f2f2;
+    padding: 15px;
+    margin: 15px auto;
+    width: 300px;
+    border-radius: 10px;
+}
